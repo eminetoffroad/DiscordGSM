@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "type": "SourceQuery",
+        "game": "Left 4 Dead 2",
+        "addr": "190.237.247.206",
+        "port": 27017,
+        "channel": 628353679690301450,
+        "image_url": "https://cdn.discordapp.com/attachments/628353679690301450/788213591627005962/left-for-dead-2-icon-19.png"
+    }
+    
+]
