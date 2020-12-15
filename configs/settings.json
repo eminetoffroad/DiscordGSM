@@ -7,12 +7,12 @@
     "presence_type": 3,
     "presence_rate": 5,
     "fieldname": {
-        "status": "Status",
-        "address": "Address",
-        "port": "Port",
-        "game": "Game",
-        "currentmap": "Current Map",
-        "players": "Players",
-        "country": "Location"
+        "status": "Estado",
+        "address": "Dirección",
+        "port": "Puerto",
+        "game": "Juego",
+        "currentmap": "Mapa actual",
+        "players": "Jugadores",
+        "country": "Locación"
     }
 }
