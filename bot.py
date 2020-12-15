@@ -80,7 +80,7 @@ class DiscordGSM():
         icon_file_name = 'images/discordgsm' + ('DGSM_TOKEN' in os.environ and '-heroku' or '') + '.png'
         with open(icon_file_name, 'rb') as file:
             try:
-                await bot.user.edit(username='DiscordGSM', avatar=file.read())
+                await bot.user.edit(username='GameServers', avatar=file.read())
             except:
                 pass
 
